@@ -1,0 +1,108 @@
+h1{
+    font-size: 50px;    
+    font-family:Kaushan Script ;
+    font-weight: 500;
+    line-height: 1.1;
+    padding: 0px 300px;
+    float: right;
+
+}
+h2{
+    font-size: 1.5rem;
+    font-weight: 400;
+    padding-top: 50px;
+    text-align: center;
+    background-color: black;
+    color: white;
+
+}
+
+p{
+    font-size: 1.5rem;
+    line-height: 2.5rem;
+  
+    
+}
+h5{
+    font-size: 1.5rem;
+    font-weight: 400;
+    /* padding-top: 50px; */
+    text-align: center;
+    /* background-color: black; */
+    color: white;
+}
+button{
+    padding-left: 250px;
+}
+
+/* h3{
+    padding: 2rem;
+} */
+
+nav{
+    background-color:#e3f2fd;;
+}
+
+
+.feature-icon{
+    padding-left: 350px;
+    padding-top: 50px;
+    
+}
+h4{
+    font-size: 30px;
+    font-weight: 200;
+    text-align: center;
+    color: #fff;
+}
+
+.harshit{
+    border-radius: 50%;
+   margin: auto;
+   text-align: center;
+}
+.planguages{
+    padding-left: 50px;
+    color: #fff;
+}
+#brief {
+     text-align: center;
+    padding :50px 0 0 250px ;
+    width: 50%;
+}
+#skills{
+    padding-top: 100px
+    ;
+    background-color: #8ec6c5;
+  
+}
+
+ .introduction{
+    background-color:#8ec6c5 ;
+    padding: 100px;
+    color: white;
+}
+/* .social-links{
+    padding : 100px 10px 100px 10px  ;
+    text-align: center;
+} */
+
+
+#harshit-image{
+    padding-right: 3%; 
+    border-radius: 100%;
+    float: left;
+}
+#Contactharshit {
+    text-align: center;
+    margin: 20PX;
+/* background-color: black; */
+}
+
+
+.social-media{
+    margin: center;
+}
+.developer{
+    background-color: black;
+}
